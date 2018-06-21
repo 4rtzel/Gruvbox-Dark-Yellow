@@ -4,7 +4,7 @@
 
 active_text_color=#EBDBB2
 inactive_text_color=#282828
-button_offset=3
+button_offset=0
 button_spacing=0
 show_app_icon=true
 full_width_title=true
@@ -12,8 +12,8 @@ maximized_offset=0
 title_horizontal_offset=3
 title_shadow_active=false
 title_shadow_inactive=false
-title_vertical_offset_active=0
-title_vertical_offset_inactive=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
 title_shadow_active=false
 title_shadow_inactive=false
 shadow_delta_height=0
